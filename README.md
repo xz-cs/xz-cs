@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+- ⚡ Fun fact: No fun fact.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xz-cs&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xz-cs&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **xz-cs/xz-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
